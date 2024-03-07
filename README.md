@@ -1,4 +1,4 @@
-# Simplfying-Demand-Forecasting-and-Inventory-Management
+# Simplfying-Demand-Forecasting-and-Inventory-Management-with-AWS
 
 Overview:
 Our focus is on revolutionizing demand forecasting and inventory management, simplifying a process that often requires substantial manpower. Unlike traditional methods, our solution leverages AWS tools to automate real-time decision-making, advising companies on when and how much to order for each product. By analyzing daily sales data and factoring in lead times for ordering and receiving raw materials, our system ensures precision in inventory control.
